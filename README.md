@@ -1,2 +1,2 @@
-# Data-Analyst-Nanodegree-
+# Data-Analyst-Nanodegree
 Udacity Data Science Certificate Program II
