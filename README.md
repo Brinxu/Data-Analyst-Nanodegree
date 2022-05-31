@@ -49,7 +49,7 @@ In this project, we use Python’s data visualization tools to systematically ex
 - **Juno Lee** - Curriculum Lead (Udacity)
 - **Mike Yi** - Curriculum Developer (Support Lead at Udacity)
 
-## Technologies
+## Libraries
 
 - **Jupyter**
 - **Numpy**
